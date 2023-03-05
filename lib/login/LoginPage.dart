@@ -101,7 +101,7 @@ Container(
 
             ),
             CustomButton(
-              text: "Eman",
+              text: "Bakoooo",
               color: Colors.pink,
             ),
             CustomButton(
